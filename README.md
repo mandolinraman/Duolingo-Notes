@@ -14,7 +14,7 @@ Hey there! This repository contains lesson notes for the many [Duolingo](https:/
 - [Italian](Italian/)
 - [Japanese](Japanese/)
 - [Norwegian](Norwegian/)
-- [Norwegian](Norwegian/)
+- [Polish](Polish/)
 - [Portuguese](Portuguese/)
 - [Russian](Russian/)
 - [Spanish](Spanish/)
