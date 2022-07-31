@@ -173,7 +173,7 @@ There are actually several verbs for knowing, and you'll get to know them all in
 
 > **Vet du hvor det er?**
 > Do you know where it is?
->
+> 
 > **Vet du hvem hun er?**
 > Do you know who she is?
 
@@ -420,3 +420,143 @@ When you have no other option, you can use these replacement characters, but don
 | **en tur**       | a trip                   |
 | **en/ei natt**   | a night                  |
 | **en/ei helg**   | a weekend                |
+
+# Food
+
+## Cooking
+
+In this skill, you'll learn the verb **lager**, which translates to *make*. There's no separate verb for cooking, instead, we use **lager mat**, literally *make food*.
+
+> **Han lager mat**.
+> He is cooking.
+
+------
+
+### Measure Words
+
+Remember that in Norwegian, the word for *of*, **av**, is omitted where one would normally use it in English to join a measure word with another noun.
+
+| Norwegian         | English            |
+|:----------------- |:------------------ |
+| **en kopp kaffe** | *a cup of coffee*  |
+| **et glass vann** | *a glass of water* |
+
+Neat, huh?
+
+------
+
+| Vocabulary      | (Tree 4)                    |
+|:--------------- |:--------------------------- |
+| **å lage**      | to make                     |
+| **å lage mat**  | to cook                     |
+| **en fisk**     | a fish                      |
+| **et kjøtt**    | a meat                      |
+| **en pasta**    | a pasta                     |
+| **en/ei suppe** | a soup                      |
+| **en kylling**  | a chicken                   |
+| **mat** (m)     | food                        |
+| **en frokost**  | a breakfast                 |
+| **en ost**      | a cheese                    |
+| **en frukt**    | a fruit                     |
+| **en tomat**    | a tomato                    |
+| **et glass**    | a glass                     |
+| **en øl**       | a (unit of) beer            |
+| **et salt**     | a salt                      |
+| **et egg**      | an egg                      |
+| **et sukker**   | a sugar                     |
+| **en pepper**   | a pepper (not bell pepper!) |
+
+# Object Pronouns
+
+### Object Pronouns
+
+We were introduced to the Norwegian pronouns in the first skill. Let's have a look at them here:
+
+| Singular                      |                | Plural   |              |
+|:----------------------------- |:-------------- |:-------- |:------------ |
+| **jeg**                       | I              | **vi**   | we           |
+| **du**                        | you (singular) | **dere** | you (plural) |
+| **han**, **hun**, **den/det** | he, she, it    | **de**   | they         |
+
+As in English, the pronouns above only pertain to subjects. The pronouns at the receiving end of a verb, in other words the *object pronouns*, are as follows:
+
+| Singular                        |                | Plural   |              |
+|:------------------------------- |:-------------- |:-------- |:------------ |
+| **meg**                         | me             | **oss**  | us           |
+| **deg**                         | you (singular) | **dere** | you (plural) |
+| **ham**, **henne**, **det/den** | him, her, it   | **dem**  | them         |
+
+**Den** is used to mean *it* or *that* when referring back to a masculine or feminine subject.
+
+**Det** is used to mean *it* or *that* when referring back to a neuter subject, and when introducing a brand new noun that has not yet been mentioned - regardless of the gender of that noun.
+
+**Han** is an alternative form of **ham**, but in this course we will use "han" exclusively as a subject ("he"), and "ham" for the object form ("him").
+
+------
+
+| Vocabulary    | (Tree 4)       |
+|:------------- |:-------------- |
+| **viser**     | show           |
+| **meg**       | me             |
+| **deg**       | you (singular) |
+| **ham**       | him            |
+| **henne**     | her            |
+| **den** (m/f) | it             |
+| **det** (n)   | it             |
+| **oss**       | us             |
+| **dere**      | you (plural)   |
+| **dem**       | them           |
+
+# Definite Forms
+
+### Definite Forms
+
+The definite form ("the man", "the woman", et cetera) is formed by placing the indefinite article, "a/an", or in Norwegian, "en/et", at the end of the word instead of at the beginning. This is called a postfix or a suffix.
+
+| Indefinite |           | Definite |             |
+|:---------- |:--------- |:-------- |:----------- |
+| en mann    | *a man*   | mannen   | *the man*   |
+| et barn    | *a child* | barnet   | *the child* |
+
+For feminine-classified nouns, there is one irregularity:
+
+| Indefinite                 |           | Definite              |             |
+|:-------------------------- |:--------- |:--------------------- |:----------- |
+| ei kvinne **OR** en kvinne | *a woman* | kvinna **OR** kvinnen | *the woman* |
+| ei jente **OR** en jente   | *a girl*  | jenta **OR** jenten   | *the girl*  |
+
+Both **jenta** and **jenten** are appropriate translations for *the girl*. These same endings apply to all feminine nouns.
+
+It is also normal to use the masculine article "en" for indefinite forms, even when preferring a feminine suffix in definite. This is not considered an error!
+
+| Indefinite |             | Definite |              |
+|:---------- |:----------- |:-------- |:------------ |
+| en jente   | *a girl*    | jenta    | *the girl*   |
+| en øy      | *an island* | øya      | *the island* |
+
+------
+
+| Vocabulary      | (Tree 4)             |
+|:--------------- |:-------------------- |
+| **-en**         | definite suffix: the |
+| **en/ei hytte** | a cabin              |
+| **osten**       | the cheese           |
+| **egget**       | the egg              |
+| **maten**       | the food             |
+| **vannet**      | the water            |
+| **brødet**      | the bread            |
+| **suppen**      | the soup             |
+| **pastaen**     | the pasta            |
+| **saltet**      | the salt             |
+| **fisken**      | the fish             |
+| **brevet**      | the letter           |
+| **kjøttet**     | the meat             |
+| **sukkeret**    | the sugar            |
+| **kyllingen**   | the chicken          |
+| **eplet**       | the apple            |
+| **frukten**     | the fruit            |
+| **ølen**        | the beer             |
+| **boken**       | the book             |
+| **risen**       | the rice             |
+| **tomaten**     | the tomato           |
+| **avisen**      | the newspaper        |
